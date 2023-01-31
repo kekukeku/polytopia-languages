@@ -1142,7 +1142,7 @@
   "tribes.yadakk": "亞韃克",
   "tribes.yadakk.info": "{0}原本遊牧於壯麗的喀利平原，現已成了經貿天下的商旅，在帝國內鋪遍四通八達的郵驛。\n\n{0}開局便掌握 ‘{1}’ 科技。",
   "tribes.zebasi": "辛巴西",
-  "tribes.zebasi.info": "土壤肥沃的溫暖草原，是眾多{0}族人的大糧倉。\n\n{0}開局便掌握 ‘{1}’ 科技。",
+  "tribes.zebasi.info": "土壤肥沃的溫暖草原，\n\n是眾多{0}族人的大糧倉。\n\n{0}開局便掌握騎術。",
   "tribes.zebasi.news": "所有辛巴西帶來的收益都用於捐助太陽能項目。",
   "tutorial.completed.description": "現在你已經掌握了 Polytopia 的基本操作，但還有更多精彩等你發掘！在達到回合數限制前，盡量獲得高分完成本局遊戲。",
   "tutorial.completed.title": "教程結束！",
