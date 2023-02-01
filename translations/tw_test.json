@@ -1147,7 +1147,7 @@
   "tribes.quetzali.info": "{0}崇拜赤土神鳥，方叢之間，和諧共生，他們總是騎著巨大的陸行鳥。",
   "tribes.quetzali.info2": "{0}開局便掌握「{1}」科技。",
   "tribes.vengir": "反棘耳",
-  "tribes.vengir.info": "遭致其他部落嫌惡，而被排擠到荒蕪的窮山惡水。且看身處逆境的{0}，是否還能東山再起？",
+  "tribes.vengir.info": "遭致其他部落嫌惡，而被排擠到荒蕪的窮山惡水。適應困苦的{0}，會甘於逆來順受，還是東山再起一雪前恥呢？",
   "tribes.vengir.info2": "{0}以劍士開局，且掌握「{1}」科技。",
   "tribes.xinxi": "青岐",
   "tribes.xinxi.info": "足踏崇嶺兮望嶮巇，\n手挽落櫻兮沐繽紛。",
@@ -1159,14 +1159,6 @@
   "tribes.zebasi.info": "土壤肥沃的溫暖草原，是眾多{0}族人的大糧倉。",
   "tribes.zebasi.info2": "{0}開局便掌握「{1}」科技。",
   "tribes.zebasi.news": "所有辛巴西帶來的收益都用於捐助太陽能項目。",
-  
-  "TribeSkins/skinName": "{0} skin",
-  "TribeSkins/tribeskins.baerion": "霸革夫",
-  "TribeSkins/tribeskins.baerion.description": "霸革夫是{0}中的精英獵人，人人身披狩獵試煉的首件戰利品，隨時隨地蓄勢待發，無所畏懼！",
-  "TribeSkins/tribeskins.ranger": "優矢派",
-  "TribeSkins/tribeskins.ranger.description": "身為{0}中最頂尖的硬漢與神射手，優矢派對戰技功夫與山川林木一樣嫻熟於心。",
-  "TribeSkins/tribeskins.skeleton": "狂教徒",
-  "TribeSkins/tribeskins.skeleton.description": "獻身於不知閣的{0}狂教徒，在百般折磨的死磕磕儀式中，蛻去肉身，除了復仇的怒火再無它物。",
   
   "tutorial.completed.description": "現在你已經掌握了 Polytopia 的基本操作，但還有更多精彩等你發掘！在達到回合數限制前，盡量獲得高分完成本局遊戲。",
   "tutorial.completed.title": "教程結束！",
@@ -1428,4 +1420,13 @@
   "world.unit.range": "攻擊範圍",
   "world.unit.veteran": "這是一個資深單位",
   "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）"
+  
+  "TribeSkins/skinName": "{0}外觀",
+  "TribeSkins/tribeskins.baerion": "霸革夫",
+  "TribeSkins/tribeskins.baerion.description": "霸革夫是{0}中的精英獵人，人人身披狩獵試煉的首件戰利品，隨時隨地蓄勢待發，無所畏懼！",
+  "TribeSkins/tribeskins.ranger": "優矢派",
+  "TribeSkins/tribeskins.ranger.description": "身為{0}中最頂尖的硬漢與神射手，優矢派對戰技功夫與山川林木一樣嫻熟於心。",
+  "TribeSkins/tribeskins.skeleton": "狂教徒",
+  "TribeSkins/tribeskins.skeleton.description": "獻身於不知閣的{0}狂教徒，在百般折磨的死磕磕儀式中，蛻去肉身，除了復仇的怒火再無它物。",
+  
 }
