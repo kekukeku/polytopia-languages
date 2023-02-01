@@ -1430,7 +1430,6 @@
   "world.unit.movement": "移動",
   "world.unit.range": "攻擊範圍",
   "world.unit.veteran": "這是一個資深單位",
-  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）" 
-  "TribeSkins/skinName": "{0}外觀",
+  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",
 
 }
