@@ -1159,7 +1159,6 @@
   "tribes.zebasi.info": "土壤肥沃的溫暖草原，是眾多{0}族人的大糧倉。",
   "tribes.zebasi.info2": "{0}開局便掌握「{1}」科技。",
   "tribes.zebasi.news": "所有辛巴西帶來的收益都用於捐助太陽能項目。",
-  
   "tutorial.completed.description": "現在你已經掌握了 Polytopia 的基本操作，但還有更多精彩等你發掘！在達到回合數限制前，盡量獲得高分完成本局遊戲。",
   "tutorial.completed.title": "教程結束！",
   "tutorial.suggestion.description": "還有人潛藏在這片迷霧之下 . . . . . .",
@@ -1420,13 +1419,11 @@
   "world.unit.range": "攻擊範圍",
   "world.unit.veteran": "這是一個資深單位",
   "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）"
-  
   "TribeSkins/skinName": "{0}外觀",
   "TribeSkins/tribeskins.baerion": "霸革夫",
   "TribeSkins/tribeskins.baerion.description": "霸革夫是{0}中的精英獵人，人人身披狩獵試煉的首件戰利品，隨時隨地蓄勢待發，無所畏懼！",
   "TribeSkins/tribeskins.ranger": "優矢派",
   "TribeSkins/tribeskins.ranger.description": "身為{0}中最頂尖的硬漢與神射手，優矢派對戰技功夫與山川林木一樣嫻熟於心。",
   "TribeSkins/tribeskins.skeleton": "狂教徒",
-  "TribeSkins/tribeskins.skeleton.description": "獻身於不知閣的{0}狂教徒，在百般折磨的死磕磕儀式中，蛻去肉身，除了復仇的怒火再無它物。",
-  
+  "TribeSkins/tribeskins.skeleton.description": "獻身於不知閣的{0}狂教徒，在百般折磨的死磕磕儀式中，蛻去肉身，除了復仇的怒火再無它物。", 
 }
