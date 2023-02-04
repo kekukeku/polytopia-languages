@@ -1432,4 +1432,8 @@
   "world.unit.veteran": "這是一個資深單位",
   "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",
 
+  "wcontroller.spectate.info": "可選擇刪除遊戲或留下觀戰"
+  "gamesettins.scorehigh": "創下高分"
+  "gamesettings.loading": "載入遊戲..."
+  
 }
