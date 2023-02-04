@@ -1380,7 +1380,7 @@
   "world.building.village": "村落",
   "world.infiltrate.header": "滲透成功！",
   "world.intro.objective": "目標: {0}",
-  "world.intro.text": "你承啓天命，擔任{0}的頭目。放手開疆拓土之餘，也要當心其他虎視眈眈的部落。",
+  "world.intro.text": "承啓天命，你擔任{0}的頭目。放手開疆拓土之餘，也要當心其他虎視眈眈的部落。",
   "world.intro.title": "領袖英明！",
   "world.loading": "已載入 {0}%",
   "world.meet.tribe": "你遇見了 {0} ",
@@ -1430,10 +1430,5 @@
   "world.unit.movement": "移動",
   "world.unit.range": "攻擊範圍",
   "world.unit.veteran": "這是一個資深單位",
-  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",
-
-  "wcontroller.spectate.info": "可選擇刪除遊戲或留下觀戰",
-  "gamesettins.scorehigh": "創下高分",
-  "gamesettings.loading": "載入遊戲...",
-  
+  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",  
 }
