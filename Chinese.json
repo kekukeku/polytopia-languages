@@ -1260,7 +1260,7 @@
   "unit.names.knight": "騎士",
   "unit.names.mindbender": "度化僧",
   "unit.names.mooni": "暮麑",
-  "unit.names.navalon": "鯤鯓",
+  "unit.names.navalon": "恐鯤",
   "unit.names.phychi": "蜚蛉",
   "unit.names.polytaur": "獸人",
   "unit.names.raychi": "蜉葉",
@@ -1430,5 +1430,8 @@
   "world.unit.movement": "移動",
   "world.unit.range": "攻擊範圍",
   "world.unit.veteran": "這是一個資深單位",
-  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",  
+  "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",
+  
+  "gamesettings.loading": "載入遊戲...",
+  
 }
