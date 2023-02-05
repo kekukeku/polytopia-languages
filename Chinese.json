@@ -1433,5 +1433,6 @@
   "world.unit.veteran.progress": "已擊殺 {0} 個單位（需 {1} 個升級）",
   
   "gamesettings.loading": "載入遊戲...",
+  "wcontroller.spectate.info": "你可以決定刪除遊戲或留下觀看",
   
 }
