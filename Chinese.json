@@ -1442,8 +1442,9 @@
   "onlineview.tournaments.available": "可選賽事",
   "onlineview.tournament.info.time.left": "剩餘時限",
   "onlineview.tournament.info.registered": "報隊玩家",
-  "onlineview.tournament.info.description.faq": "還是看得暮煞煞？手刀翻閱：",
-  "onlineview.tournament.info.description.faq.button": "常見問題",
+  "onlineview.tournaments.info.description.faq": "還是看得暮煞煞？手刀翻閱：",
+  "onlineview.tournaments.info.description.faq.button": "常見問題",
+  "onlineview.tournament.info.official": "官方賽",
   
   "Date.today": "今日",
   "Date.tomorrow": "明日",
