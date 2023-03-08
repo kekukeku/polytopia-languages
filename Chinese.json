@@ -689,6 +689,9 @@
   "onlineview.lobby.waitingforplayers": "再額外{1}等待{0}名",
   "onlineview.lobby.waitingforplayers.title": "確定嗎",
   "onlineview.lobby.waitingforplayers.warning": "有人還沒接受你的邀請，確定要略過他們開始遊戲嗎？",
+  "onlineview.lobby.closed.title": "結束",
+  "onlineview.lobby.closed": "遊戲已關閉",
+  
   "onlineview.login.ios": "使用 {0} 登錄",
   "onlineview.login.ios.info": "使用 {0} 保障唯一遊戲 ID 永遠不變，讓你的遊戲資料能安全暢行不同裝置。",
   "onlineview.login.ios.info2": "到裝置的設定頁面，點選‘Game Center’登入你的 Apple ID。",
@@ -728,8 +731,10 @@
   "onlineview.skipped.info.other": "{0} 的回合被跳過了",
   "onlineview.skipped.info.tribe.local": "由於長時間未操作，已為你隨機分配部落。",
   "onlineview.skipped.info.tribe.other": "由於長時間未操作，已為 {0} 隨機分配部落。",
+  "onlineview.skipped.info.bylocalplayer": "你的回合被其他玩家跳過。",
   "onlineview.skipped.title.empty": "已被跳過",
   "onlineview.skipped.title.game": "已在 {0} 中被跳過",
+  
   "onlineview.theirturn": "他人的回合",
   "onlineview.title": "多人遊戲",
   "onlineview.uptodate": "所有遊戲刷新完畢",
@@ -1024,7 +1029,7 @@
   "tooltip.ability.infiltrate": "此單位可進入敵方城市策動叛亂。",
   "tooltip.ability.literacy": "使所有科技的開銷降低 {0}%。",
   "tooltip.ability.navigate": "無論有無掌握地形相關科技，此單位都能在各種地形移動自如。",
-  "tooltip.ability.peacetreaty": "向其他部落遞交和平協議。/n在部落資訊頁選擇部落名稱可找到此功能。",
+  "tooltip.ability.peacetreaty": "向其他部落遞交和平協議。\n在部落資訊頁選擇部落，可點選擇遞交。",
   "tooltip.ability.persist": "此單位可在殺死敵人後立即再次攻擊。",
   "tooltip.ability.poison": "此單位的攻擊與反擊使敵方單位中毒。中毒單位失去所有防禦加成並在死後留下菌芽。",
   "tooltip.ability.scout": "此單位擁有雙倍視野範圍。",
@@ -1456,5 +1461,7 @@
   "onlineview.defeated": "戰敗",
   "challengermode.buttons.connectaccount": "連接帳號",
   "buttons.signup": "報隊",
+
+
 
 }
