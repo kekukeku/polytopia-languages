@@ -634,6 +634,8 @@
   "onlineview.friends": "好友",
   "onlineview.game.decline": "拒絕邀請",
   "onlineview.game.delete": "刪除",
+  "onlineview.game.delete.info": "確定要刪除？",
+  "onlineview.game.delete.title": "刪除本局",
   "onlineview.game.gameinfo": "遊戲資訊",
   "onlineview.game.join": "加入遊戲",
   "onlineview.game.leavematchmaking": "退出配對",
@@ -1450,6 +1452,8 @@
   "onlineview.tournament.info.registered": "報隊玩家",
   "onlineview.tournaments.info.description.faq": "還是看得暮煞煞？手刀翻閱：",
   "onlineview.tournaments.info.description.faq.button": "常見問題",
+  "onlineview.tournaments.info.header": "賽事",
+  "onlineview.tournaments.loading": "載入中...",
   "onlineview.tournament.info.official": "官方賽",
   
   "Date.today": "今日",
